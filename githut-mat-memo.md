@@ -27,6 +27,10 @@ git push -u origin master
 git push -u origin master
     # ok
 
+    to update
+git add .
+git commit -m "msg"
+git push -u origin master
 
 ## ssh
 ssh -Tv git@github.com
