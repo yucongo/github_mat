@@ -37,6 +37,7 @@ git push git@github.com:git/git.git yourbranchname or git push origin yourbranch
 
 git checkout -b <my branch name>
     git checkout -b test-branch
+    git push --set-upstream origin test-branch
 git branch
 
 
