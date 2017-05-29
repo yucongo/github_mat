@@ -34,6 +34,12 @@ git push -u origin master
 
 git push git@github.com:git/git.git yourbranchname or git push origin yourbranchname
 
+
+git checkout -b <my branch name>
+    git checkout -b test-branch
+git branch
+
+
 ## ssh
 ssh -Tv git@github.com
 
