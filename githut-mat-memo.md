@@ -40,6 +40,11 @@ git checkout -b <my branch name>
     git push --set-upstream origin test-branch
 git branch
 
+    git push
+
+  switch back to master
+git checkout master  
+
 
 ## ssh
 ssh -Tv git@github.com
